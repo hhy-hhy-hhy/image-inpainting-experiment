@@ -1,0 +1,18 @@
+{
+  "missing_ratios": [
+    0.25,
+    0.5,
+    0.75
+  ],
+  "algorithms": [
+    "BM3D",
+    "FISTA-L1",
+    "FISTA-TV",
+    "ISTA"
+  ],
+  "averages": {
+    "0.25": {},
+    "0.5": {},
+    "0.75": {}
+  }
+}
